@@ -1,7 +1,7 @@
 import customtkinter as ctk
 
 d
-class Block:
+class Block:d
     def __init__(self, x_cord: int, y_cord: int):
         self.x_cord: int = x_cord
         self.y_cord: int = y_cord
